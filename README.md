@@ -4,7 +4,7 @@
 
 # 💫 About Me:
   
-## <div align="center">I'm Ceren, a freelance mobile developer 👨‍💻 & a passionate learner 👩‍🎓</div>  
+## <div align="center">I'm Ceren, a Mobile Developer 👨‍💻 & a passionate learner 👩‍🎓</div>  
 
 🚀 I’m currently working on React Native and React <br>
 🌱 I’m learning TypeScript and Kubernetes <br>
